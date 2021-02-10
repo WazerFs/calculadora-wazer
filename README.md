@@ -1,2 +1,2 @@
 # calculadora-wazer
-Calculadora com comandos simples em python
+Calculadora feita com comandos simples em python
